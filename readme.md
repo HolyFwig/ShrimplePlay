@@ -13,4 +13,4 @@ $ npm run start
 ```
 
 ## Want to modify and/or contribute to the project??
-do `$ npm run dev` instead of `$ npm run start`
+do `$ npm run dev` instead of `$ npm run build`
