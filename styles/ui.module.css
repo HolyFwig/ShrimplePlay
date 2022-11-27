@@ -1,0 +1,157 @@
+.container {
+  background-color: #1e1e1e;
+  padding: 0 2rem;
+}
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main h1 {
+  color: #ffc0cb;
+  font-size: 40px;
+}
+.main h2 {
+  color: #ffc0cb;
+  font-size: 30px;
+  margin: 5px;
+}
+.main u {
+  color: #ffc0cb;
+  font-size: 35px;
+  font-weight: bold;
+  padding: 2vh;
+}
+.main button {
+  background-color: #ffc0cb;
+  border: none;
+  border-radius: 100px;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 20px;
+  width: 77px;
+  height: 77px;
+  transition: all .2s ease-in-out;
+}
+.main button:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.navbar {
+  background-color: #303030;
+  height: 6vh;
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.logo {
+  left: 1vh;
+  position: absolute;
+  top: 1.5vh;
+}
+.logo a {
+  color: #ffc0cb;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.logo a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.hotlinks {
+  position: absolute;
+  right: 1vh;
+  top: 1.5vh;
+}
+.hotlinks img {top: 2vh;}
+.hotlinks a {
+  color: #ffc0cb;
+  font-size: 25px;
+  padding: 5px;
+  text-decoration: none;
+}
+.hotlinks a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.trending {
+  background-color: #303030;
+  height: 25%;
+  width: 50%;
+  padding: 20px;
+  border-radius: 20px;
+}
+.trending p {
+  color: #ffc0cb;
+  font-family: 20px;
+}
+.trending h1 {margin:0px;}
+.trending img {border-radius: 20px;}
+.desc {
+  float: right;
+  width: 50%;
+}
+.gimage {
+  float:left;
+  text-align: center;
+  width: 50%;
+}
+.lib {
+  background-color: #303030;
+  overflow-x: hidden;
+	overflow-y: scroll;
+	width: 400px;
+	height: 520px;
+	padding: 0;
+  border-radius: 20px;
+	text-align: center;
+}
+.lib a {
+  color: #ffc0cb;
+  display: block;
+  font-size: 25px;
+  padding: 5px;
+  text-decoration: none;
+}
+.lib a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.libTitle {
+  background-color: #1e1e1e;
+  border-radius: 20px;
+  color: #ffc0cb;
+  font-size: 30px;
+  padding: 10px;
+  margin-top: 2vh;
+  width: 90%;
+  margin-left: 2vh;
+}
+.socials {
+  position: absolute;
+  bottom: 1vh;
+  right: 1vh;
+  border-radius: 20px;
+  padding: 10px;
+  background-color:#303030;
+}
+.copyright {
+  position: absolute;
+  bottom: 1vh;
+  left: 1vh;
+  border-radius: 20px;
+  padding: 10px;
+  background-color:#303030;
+}
+.copyright p {
+  color: #ffc0cb;
+  font-family: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}

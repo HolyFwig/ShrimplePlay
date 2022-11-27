@@ -1,0 +1,22 @@
+<html>
+   <head>
+      <title>Celestial Gaming - Launcher</title>
+      <script>
+         window.onload = function() {
+         window.document.body.style.margin = '0';
+           window.document.body.style.height = '100vh';
+           window.navigator.serviceWorker.register('../sw.js', {
+           scope: '/service/',
+           });
+           var iframe = window.document.createElement('iframe');
+           iframe.style.border = 'none';
+           iframe.style.width = '100%';
+           iframe.style.height = '100%';
+           iframe.style.margin = '0';
+           iframe.src = '/gfiles/fnaw/index.html';
+           window.document.body.appendChild(iframe);
+           window.history.pushState("", "", '/library/');
+             };
+      </script>
+   </head>
+</html>
