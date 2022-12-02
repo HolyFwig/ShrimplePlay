@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^1.0.4-beta.5",
+    "jsdom": "^20.0.3",
     "next": "12.2.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "ws": "^8.11.0"
   },
   "devDependencies": {
     "@types/node": "18.0.1",
