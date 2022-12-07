@@ -1,0 +1,8 @@
+version: "2"
+services:
+  celestial-gaming:
+    restart: unless-stopped
+    image: "ghcr.io/celestial-dev/celestial-gaming:main"
+    ports:
+    #IMPORTANT: DO NOT CHANGE THE 3000 PART!
+      - your port here:3000
