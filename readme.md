@@ -123,7 +123,8 @@ Distributed under the GNU General Public License License. See `LICENSE` for more
 <!-- CONTACT -->
 ## Contact
 
-Discord ~ ShrimpleFix#1394 - Email ~ support@shrimple.club
+* Discord ~ ShrimpleFix#1394
+* Email ~ support@shrimple.club
 
 <p align="right">(<a href="#readme-top" style="scroll-behavior: smooth;">back to top</a>)</p>
 
