@@ -135,9 +135,7 @@ Distributed under the GNU General Public License License. See `LICENSE` for more
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Discord ~ ShrimpleFix#1394 - Email ~ support@shrimple.club
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Discord ~ ShrimpleFix#1394 - Email ~ support@shrimple.club
 
 <p align="right">(<a href="#readme-top" style="scroll-behavior: smooth;">back to top</a>)</p>
 
