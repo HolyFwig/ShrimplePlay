@@ -32,10 +32,6 @@ const Home: NextPage = () => {
           <Link href="/library/">
             <a>Library!</a>
           </Link>
-          <img src="/imgs/credits.svg" width="25" height="25" />
-          <Link href="/credits/">
-            <a>Credits!</a>
-          </Link>
           <img src="/imgs/changelog.svg" width="25" height="25" />
           <Link href="/changelog/">
             <a>Changelog!</a>
