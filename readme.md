@@ -2,20 +2,15 @@
 
 <br />
 <div align="center">
-  <a href="https://g.shrimple.club/">
-    <img src="https://g.shrimple.club/imgs/favicon.ico" alt="Logo" width="150" height="150">
-  </a>
 
   <h3 align="center">ShrimplePlay</h3>
 
   <p align="center">
     Play the Shrimple way!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://g.shrimple.club/">View Demo</a>
     ·
-    <a href="https://github.com/fmkash/staticdev.org/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/fmkash/staticdev.org/issues">Request Feature</a>
+    <a href="https://github.com/ShrimpleFix/ShrimplePlay/issues">Report Bug or Request Feature</a>
   </p>
 </div>
 
