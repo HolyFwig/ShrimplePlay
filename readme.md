@@ -9,10 +9,7 @@
   <h3 align="center">ShrimplePlay</h3>
 
   <p align="center">
-    A multipurpose website with a website starter! :)
-    <br />
-    <a href="https://github.com/fmkash/staticdev.org"><strong>Explore the docs »</strong></a>
-    <br />
+    Play the Shrimple way!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
