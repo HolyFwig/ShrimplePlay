@@ -75,9 +75,8 @@ To get started just fork the project!
 
 This site was built using the following libraries and server backends
 
-* [![HTML][HTML5]][Next.js]
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+* ![React,js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <p align="right">(<a href="#readme-top" style="scroll-behavior: smooth;">back to top</a>)</p>
 
